@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="30"
+   width="30"
+   sodipodi:docname="site-logo.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 30 30"
+   inkscape:export-filename="/Users/osantana/Downloads/logo1.png"
+   inkscape:export-xdpi="189.59"
+   inkscape:export-ydpi="189.59">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="855"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="15"
+     inkscape:cx="15"
+     inkscape:zoom="22.966667"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g1021" />
+    <rect
+       inkscape:export-ydpi="189.59"
+       inkscape:export-xdpi="189.59"
+       style="fill:#00073e;fill-opacity:1;stroke:none;stroke-width:0.0279903;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect851"
+       width="30"
+       height="30"
+       x="-1.4597961e-07"
+       y="4.3402039e-07"
+       ry="0.0039450694" />
+    <g
+       transform="matrix(1.1803621,0,0,1.1803621,-2.7883713,-3.1585225)"
+       id="g881">
+      <g
+         transform="matrix(0.26458332,0,0,0.26458332,-24.290623,-12.932787)"
+         id="g62">
+        <path
+           d="m 137.91563,80.523583 c -2.15959,0 -3.89768,1.738697 -3.89768,3.898286 v 13.536866 c 0,2.159585 1.73809,3.898285 3.89768,3.898285 h 8.62522 c -0.0727,0.21407 -0.11436,0.44316 -0.11436,0.68241 v 3.24838 c 0,0.16186 0.02,0.31875 0.0541,0.46999 h -3.33081 c -1.1909,0 -2.15014,0.95864 -2.15014,2.14953 v 0.33097 c 0,1.19089 0.95924,2.14953 2.15014,2.14953 h 11.23149 c 1.19089,0 2.15013,-0.95864 2.15013,-2.14953 v -0.33097 c 0,-1.19089 -0.95924,-2.14953 -2.15013,-2.14953 h -3.33082 c 0.0341,-0.15124 0.0542,-0.30813 0.0542,-0.46999 v -3.24838 c 0,-0.23925 -0.0417,-0.46834 -0.11435,-0.68241 h 8.62521 c 2.15959,0 3.89769,-1.7387 3.89769,-3.898285 V 84.787746 h -4.09267 v 4.264161 h -4.22324 v -4.264161 h -4.22263 v -4.264163 z"
+           style="fill:#fffc2e;fill-opacity:1;stroke:none;stroke-width:0.207101;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect993" />
+        <g
+           transform="matrix(1.1645014,0,0,1.1645014,-27.626634,-24.443639)"
+           style="fill:#007dce;fill-opacity:1"
+           id="g1051">
+          <rect
+             style="fill:#007dce;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect995"
+             width="3.6263158"
+             height="3.6621988"
+             x="156.99786"
+             y="90.138626"
+             ry="0" />
+          <rect
+             style="fill:#007dce;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect999"
+             width="3.6263158"
+             height="3.6621988"
+             x="164.25049"
+             y="90.138626"
+             ry="0" />
+          <rect
+             style="fill:#007dce;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect1001"
+             width="3.6263158"
+             height="3.6621988"
+             x="160.62418"
+             y="86.476425"
+             ry="0" />
+        </g>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205405;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect1007"
+           width="4.2228498"
+           height="4.2646356"
+           x="167.86613"
+           y="76.258286"
+           ry="0" />
+        <text
+           id="text1057"
+           y="130.61797"
+           x="108.06525"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.35652;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.1111px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fefefe;fill-opacity:1;stroke-width:0.35652;stroke-miterlimit:4;stroke-dasharray:none"
+             y="130.61797"
+             x="108.06525"
+             id="tspan1055"
+             sodipodi:role="line">CÔMPUTOS</tspan></text>
+        <text
+           id="text1071"
+           y="137.71147"
+           x="124.90742"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.83358px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:2.91042px;word-spacing:1.5875px;fill:#fffc2e;fill-opacity:1;stroke:none;stroke-width:0.291592"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.83358px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fffc2e;fill-opacity:1;stroke-width:0.291592"
+             y="137.71147"
+             x="124.90742"
+             id="tspan1069">DE PORÃO</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
